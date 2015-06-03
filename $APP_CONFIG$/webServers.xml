@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd907b36-8e6a-4e7f-acc4-86384288eed9" name="CE Cloud" url="http://systems.cecloud.org.uk/">
+        <fileTransfer host="23.29.134.141" port="22" rootFolder="/chroot/home/cecloudo/cecloud.org.uk/html/systems" accessType="SFTP" password="dfc4df9adfc4dfcedfefdff8dfe5dfcddfcbdffedf9bdffcdf9edfe6dfefdfe9dffedfdfdfd8df99df9f" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="57734726-fb5c-4373-b1bf-800bf852f485" name="CE Corporate" url="http://208.100.49.226">
+        <fileTransfer host="208.100.49.226" port="21" password="dfc8dfcedfdadf9fdf9cdf9fdf9cdf93df93dfe6" username="james@climateenergy.org.uk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="80cc5fe2-ce9f-4b3f-bf15-f36efd65c198" name="TU004" url="http://tu004.training.processmaker.com">
+        <fileTransfer host="tu004.training.processmaker.com" port="2222" rootFolder="/home/tu004/plugins" accessType="SFTP" password="dffddf9edffbdf8fdffbdfccdffedfed" username="tu004">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fd534667-817d-434a-8c37-eef63117f591" name="CapacityGrid" url="http://processmaker.capacitygrid.com">
+        <fileTransfer host="processmaker.capacitygrid.com" port="22" accessType="SFTP" password="dfe9df9bdfdadf9bdfeddfd8df98dfcedf87df9bdf99df9bdf8bdfdadfc7" username="pmadmin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

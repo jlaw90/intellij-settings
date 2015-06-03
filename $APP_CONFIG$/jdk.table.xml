@@ -1,0 +1,199 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_71&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.7.0_71" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javafx/2/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 19 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0_71&quot;" />
+      <homePath value="C:/Program Files (x86)/Android/android-sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" />
+    </jdk>
+    <jdk version="2">
+      <name value="Go SDK go1.4 windows/amd64" />
+      <type value="Google Go SDK" />
+      <version value="go1.4 windows/amd64" />
+      <homePath value="C:/Go" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Go/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Go/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-2.1.5-p273" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.5p273 ( revision 48405) p273" />
+      <homePath value="C:/RailsInstaller/Ruby2.1.0/bin/ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby/2.1.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0" />
+            <root type="simple" url="file://C:/RailsInstaller/Ruby2.1.0/lib/ruby/2.1.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby21" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:/RailsInstaller/Ruby2.1.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_25" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

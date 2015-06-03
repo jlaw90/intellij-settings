@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\Users\james_000\IdeaProjects\grimja\liblab'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\james_000\IdeaProjects\grimja\liblab'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\james_000\IdeaProjects\grimja\liblab'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js, *.css</mask>
+      <mask>*.js, *.css, *.js.coffee</mask>
+    </recentFileMasks>
+  </component>
+</application>
