@@ -1,0 +1,18 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="http://jira.otdm.co.uk">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d</password>
+      <option name="jiraVersion" value="6.3.15" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>james</username>
+    </JIRA>
+  </component>
+</application>
