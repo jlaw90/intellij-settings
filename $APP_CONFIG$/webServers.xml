@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4b935c50-ff64-42f5-852b-f55e1a2e55b3" name="Aiko Care PM" url="http://162.13.70.222">
+        <fileTransfer host="162.13.70.222" port="22" accessType="SFTP" password="df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d" username="james">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

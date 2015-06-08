@@ -140,6 +140,20 @@
       <option name="useProxy" value="false" />
       <username>james</username>
     </JIRA>
+    <JIRA shared="false" url="http://jira.otdm.co.uk">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d</password>
+      <option name="jiraVersion" value="6.4.5" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved A order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>james</username>
+    </JIRA>
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
