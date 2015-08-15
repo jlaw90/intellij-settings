@@ -36,6 +36,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="436055e3-e387-4eeb-a729-ee72916fc283" name="Sqrt4 - Tom Sandbox" url="http://tom.sqrt4.com">
+        <fileTransfer host="sqrt4.com" port="22" rootFolder="/srv/tom.sqrt4.com/html" accessType="SFTP" password="df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
