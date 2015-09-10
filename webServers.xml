@@ -43,6 +43,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="7f781ac0-a31c-4a31-868c-d9c7e6492418" name="Sqrt4 - pmtraining" url="http://sqrt4.com">
+        <fileTransfer host="sqrt4.com" port="22" rootFolder="/opt/plugins/training" accessType="SFTP" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
