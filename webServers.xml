@@ -1,50 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fd907b36-8e6a-4e7f-acc4-86384288eed9" name="CE Cloud" url="http://systems.cecloud.org.uk/">
-        <fileTransfer host="23.29.134.141" port="22" rootFolder="/chroot/home/cecloudo/cecloud.org.uk/html/systems" accessType="SFTP" password="dfc4df9adfc4dfcedfefdff8dfe5dfcddfcbdffedf9bdffcdf9edfe6dfefdfe9dffedfdfdfd8df99df9f" username="root">
+      <webServer id="272f7e7e-d232-47b9-9368-bd3eb16dca41" name="OTNS" url="http://50.31.117.161">
+        <fileTransfer host="50.31.117.161" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="57734726-fb5c-4373-b1bf-800bf852f485" name="CE Corporate" url="http://208.100.49.226">
-        <fileTransfer host="208.100.49.226" port="21" password="dfc8dfcedfdadf9fdf9cdf9fdf9cdf93df93dfe6" username="james@climateenergy.org.uk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="80cc5fe2-ce9f-4b3f-bf15-f36efd65c198" name="TU004" url="http://tu004.training.processmaker.com">
-        <fileTransfer host="tu004.training.processmaker.com" port="2222" rootFolder="/home/tu004/plugins" accessType="SFTP" password="dffddf9edffbdf8fdffbdfccdffedfed" username="tu004">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="fd534667-817d-434a-8c37-eef63117f591" name="CapacityGrid" url="http://processmaker.capacitygrid.com">
-        <fileTransfer host="processmaker.capacitygrid.com" port="22" accessType="SFTP" password="dfe9df9bdfdadf9bdfeddfd8df98dfcedf87df9bdf99df9bdf8bdfdadfc7" username="pmadmin">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="4b935c50-ff64-42f5-852b-f55e1a2e55b3" name="Aiko Care PM" url="http://162.13.70.222">
-        <fileTransfer host="162.13.70.222" port="22" accessType="SFTP" password="df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d" username="james">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="436055e3-e387-4eeb-a729-ee72916fc283" name="Sqrt4 - Tom Sandbox" url="http://tom.sqrt4.com">
-        <fileTransfer host="sqrt4.com" port="22" rootFolder="/srv/tom.sqrt4.com/html" accessType="SFTP" password="df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d" username="root">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="7f781ac0-a31c-4a31-868c-d9c7e6492418" name="Sqrt4 - pmtraining" url="http://sqrt4.com">
-        <fileTransfer host="sqrt4.com" port="22" rootFolder="/opt/plugins/training" accessType="SFTP" username="root">
+      <webServer id="9ba2442a-62e6-4140-99da-db70bd754cc3" name="cecloud" url="http://cecloud.org.uk">
+        <fileTransfer host="cecloud.org.uk" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
