@@ -12,9 +12,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <PHPCodeStyleSettings>
-    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
-  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
