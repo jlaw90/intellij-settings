@@ -1,15 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="272f7e7e-d232-47b9-9368-bd3eb16dca41" name="OTNS" url="http://50.31.117.161">
-        <fileTransfer host="50.31.117.161" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
+      <webServer id="9865f5a2-f05c-44aa-a4d2-82db445a0281" name="CapacityGrid PM" url="http://processmaker.capacitygrid.com">
+        <fileTransfer host="processmaker.capacitygrid.com" port="22" accessType="SFTP" password="dfdadfc7df8bdfe9df9bdfdadfeddfd8df98dfcedf87df9bdf99df9b" username="pmadmin">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="9ba2442a-62e6-4140-99da-db70bd754cc3" name="cecloud" url="http://cecloud.org.uk">
-        <fileTransfer host="cecloud.org.uk" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
+      <webServer id="6548b492-5e2f-4764-bc11-bf6a8e1161a6" name="OTNS" url="http://208.100.49.236">
+        <fileTransfer host="208.100.49.236" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" rootFolder="/chroot/home/bsvisach/public_html" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
