@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1b79625f-4ae8-4e10-a1fe-e13f497f295c" name="CEcloud" url="http://cecloud.org.uk">
+        <fileTransfer host="cecloud.org.uk" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
