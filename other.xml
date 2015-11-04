@@ -21,7 +21,7 @@
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -64,6 +64,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RubyCucumber" number="6" string0="calabash-android" string1="calabash-cucumber" string2="cucumber-api-steps" string3="factory_girl" string4="json_spec" string5="rails3-jquery-autocomplete" />
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
