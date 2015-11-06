@@ -1,27 +1,10 @@
 <application>
-  <component name="CodeStyleSchemes">
-    <option name="CURRENT_SCHEME_NAME" value="Default" />
-  </component>
-  <component name="CopyAsHtmlConfiguration">
-    <option name="_addBorder" value="true" />
-    <option name="_includeWarningHighlights" value="false" />
-    <option name="_mimeTypes" value="3" />
-    <option name="_lineNosStartAt1" value="true" />
-    <option name="_lineNoType" value="follow" />
-    <option name="_unindent" value="false" />
-    <option name="_includePadding" value="true" />
-    <option name="_padding" value="4" />
-    <option name="_fontSizeType" value="follow" />
-    <option name="_fontSize" value="0" />
-    <option name="_tabsToSpaces" value="true" />
-    <option name="_tabSize" value="4" />
-  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -44,6 +27,10 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -63,15 +50,21 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
-  </component>
-  <component name="RubyCucumber" number="6" string0="calabash-android" string1="calabash-cucumber" string2="cucumber-api-steps" string3="factory_girl" string4="json_spec" string5="rails3-jquery-autocomplete" />
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
-    <recent_templates>
-      <option name="RECENT_TEMPLATES">
-        <value>
-          <list size="0" />
-        </value>
-      </option>
-    </recent_templates>
+    <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
 </application>
