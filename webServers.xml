@@ -9,14 +9,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="6548b492-5e2f-4764-bc11-bf6a8e1161a6" name="OTNS" url="http://208.100.49.236">
-        <fileTransfer host="208.100.49.236" port="22" privateKey="F:\Seafile\Seafile\My Library\Documents\MT\private_key.ppk" rootFolder="/chroot/home/bsvisach/public_html" accessType="SFTP" username="root" keyPair="true">
+        <fileTransfer host="208.100.49.236" port="22" privateKey="C:\Users\james\Seafile\My Library\Documents\MT\private_key.ppk" rootFolder="/chroot/home/bsvisach/public_html" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="1b79625f-4ae8-4e10-a1fe-e13f497f295c" name="CEcloud" url="http://cecloud.org.uk">
-        <fileTransfer host="cecloud.org.uk" port="22" privateKey="C:\Users\James\Google Drive\James\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
+        <fileTransfer host="cecloud.org.uk" port="22" privateKey="C:\Users\james\Seafile\My Library\Documents\MT\private_key.ppk" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
