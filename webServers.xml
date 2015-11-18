@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9893bca9-9d9c-4f9b-9825-8ba321f4e2da" name="208.100.49.236" url="http://208.100.49.236/">
-        <fileTransfer host="208.100.49.236" port="22" privateKey="C:\Users\James\Seafile\My Library\Documents\MT\openssh" accessType="SFTP" username="root" keyPair="true">
+      <webServer id="9893bca9-9d9c-4f9b-9825-8ba321f4e2da" name="216.86.149.201" url="http://208.100.49.236/">
+        <fileTransfer host="216.86.149.201" port="22" privateKey="C:\Users\James\Seafile\My Library\Documents\MT\openssh" accessType="SFTP" username="root" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
