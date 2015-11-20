@@ -306,6 +306,19 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-rails-4.0.5/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-turbolinks (v2.1.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/src" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/src" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
