@@ -326,6 +326,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="hike (v1.2.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
@@ -868,6 +877,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="rake-compiler (v0.9.5, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/tasks" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/tasks" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/features" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
@@ -971,6 +995,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.19/vendor" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v5.0.0.beta1@f2e2e5, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sass-rails-f2e2e52a497c/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sass-rails-f2e2e52a497c/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v5.0.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-rails-5.0.4/lib" />
@@ -978,6 +1011,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-rails-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sassc (v0.1@7ec706, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sassruby-7ec706e4afa0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sassruby-7ec706e4afa0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sassruby-7ec706e4afa0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/sassruby-7ec706e4afa0/lib" />
       </SOURCES>
     </library>
     <library name="sassc (v1.8.1, ruby-2.2.3-p173) [gem]">
@@ -1035,6 +1079,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-rails-3.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v2.12.4, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/lib" />
       </SOURCES>
     </library>
     <library name="sprockets (v3.4.0, ruby-2.2.3-p173) [gem]">
@@ -1101,6 +1156,17 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/tasks" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-1.4.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.1, ruby-2.2.3-p173) [gem]">
