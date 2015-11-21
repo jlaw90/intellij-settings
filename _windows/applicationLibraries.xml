@@ -153,6 +153,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/ext" />
@@ -201,6 +210,25 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/contrib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/doc-api" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.8, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/java" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/tests" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/java" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/tests" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/rakelib" />
       </SOURCES>
     </library>
     <library name="execjs (v2.6.0, ruby-2.2.3-p173) [gem]">
@@ -716,6 +744,23 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.6.4, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, ruby-2.2.3-p173) [gem]">
