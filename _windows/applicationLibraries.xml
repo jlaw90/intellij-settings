@@ -72,6 +72,19 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
@@ -352,6 +365,24 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.3.2/vendor" />
       </SOURCES>
     </library>
+    <library name="foundation_rails_helper (v1.0.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation_rails_helper-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation_rails_helper-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="foundation_rails_helper (v1.0.0@27e75a, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/foundation_rails_helper-27e75a4d3794/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/foundation_rails_helper-27e75a4d3794/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
@@ -359,6 +390,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="hpricot (v0.8.6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/extras" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/extras" />
       </SOURCES>
     </library>
     <library name="html2slim (v0.2.0, ruby-2.2.3-p173) [gem]">
