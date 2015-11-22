@@ -72,77 +72,17 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
+    <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.2.3-p173) [gem]">
@@ -268,6 +208,23 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="devise (v3.5.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/script" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/script" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/devise-3.5.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/bin" />
@@ -356,6 +313,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.3.2/vendor" />
       </SOURCES>
     </library>
+    <library name="foundation_rails_helper (v1.0.0@27e75a, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/foundation_rails_helper-27e75a4d3794/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/foundation_rails_helper-27e75a4d3794/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
@@ -383,79 +349,6 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
-      </SOURCES>
-    </library>
-    <library name="io-console (v0.4.3, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.3.2, ruby-2.2.3-p173) [gem]">
@@ -491,79 +384,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/src" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-2.1.0/vendor" />
-      </SOURCES>
-    </library>
-    <library name="json (v1.8.1, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, ruby-2.2.3-p173) [gem]">
@@ -688,6 +508,17 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/suppressions" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.4" />
@@ -712,77 +543,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="psych (v2.0.8, ruby-2.2.3-p173) [gem]">
+    <library name="puma (v2.15.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.15.3" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/tools" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.15.3" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/puma-2.15.3/tools" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, ruby-2.2.3-p173) [gem]">
@@ -856,79 +631,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-4.2.5/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v10.4.2, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
-      </SOURCES>
-    </library>
     <library name="rake-compiler (v0.9.5, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/bin" />
@@ -944,77 +646,13 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rake-compiler-0.9.5/features" />
       </SOURCES>
     </library>
-    <library name="rdoc (v4.2.0, ruby-2.2.3-p173) [gem]">
+    <library name="responders (v2.1.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/responders-2.1.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/responders-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.2.3-p173) [gem]">
@@ -1285,6 +923,15 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/uglifier-2.7.2/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/uglifier-2.7.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/warden-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/warden-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v2.2.1, ruby-2.2.3-p173) [gem]">
