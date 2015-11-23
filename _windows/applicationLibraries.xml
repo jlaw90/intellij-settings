@@ -74,13 +74,13 @@
     </library>
     <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
