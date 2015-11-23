@@ -74,11 +74,13 @@
     </library>
     <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
@@ -235,6 +237,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="daemons (v1.2.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.2.3-p173) [gem]">
@@ -1072,6 +1083,23 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.6.4, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, ruby-2.2.3-p173) [gem]">
