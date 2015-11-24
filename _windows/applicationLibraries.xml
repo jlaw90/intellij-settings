@@ -74,11 +74,13 @@
     </library>
     <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
@@ -572,6 +574,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="kaminari (v0.16.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/lib" />
@@ -1017,6 +1034,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/bin" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-update (v2.5.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/util" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/hide_lib_for_update" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/util" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/hide_lib_for_update" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.19, ruby-2.2.3-p173) [gem]">
