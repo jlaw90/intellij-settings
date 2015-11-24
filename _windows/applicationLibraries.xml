@@ -72,6 +72,17 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
@@ -224,6 +235,26 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.8.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-ruby_core_source-0.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-ruby_core_source-0.8.1/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.2.3-p173) [gem]">
@@ -973,6 +1004,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/responders-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.19, ruby-2.2.3-p173) [gem]">
