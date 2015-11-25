@@ -88,6 +88,7 @@
     <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -114,6 +115,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -122,6 +124,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -148,6 +151,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -235,15 +239,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
-    <library name="daemons (v1.2.3, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/daemons-1.2.3/lib" />
-      </SOURCES>
-    </library>
     <library name="debase (v0.2.2.beta6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/ext" />
@@ -311,25 +306,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
-    <library name="eventmachine (v1.0.8, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/java" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/tests" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/rakelib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/java" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/tests" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.8/rakelib" />
-      </SOURCES>
-    </library>
     <library name="execjs (v2.6.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
@@ -365,15 +341,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.3.2/vendor" />
       </SOURCES>
     </library>
-    <library name="foundation_rails_helper (v1.0.0, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation_rails_helper-1.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/foundation_rails_helper-1.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="foundation_rails_helper (v1.0.0@27e75a, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/bundler/gems/foundation_rails_helper-27e75a4d3794/lib" />
@@ -392,30 +359,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="hpricot (v0.8.6, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/extras" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/hpricot-0.8.6/extras" />
-      </SOURCES>
-    </library>
-    <library name="html2slim (v0.2.0, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/html2slim-0.2.0/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/html2slim-0.2.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/html2slim-0.2.0/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/html2slim-0.2.0/lib" />
-      </SOURCES>
-    </library>
     <library name="i18n (v0.7.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
@@ -430,6 +373,7 @@
     <library name="io-console (v0.4.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -456,6 +400,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -464,6 +409,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -490,6 +436,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -534,6 +481,7 @@
     <library name="json (v1.8.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -560,6 +508,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -568,6 +517,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -594,6 +544,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -623,6 +574,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="kaminari (v0.16.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/app" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/config" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/kaminari-0.16.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/lib" />
@@ -643,19 +609,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mail-2.6.3/lib" />
       </SOURCES>
     </library>
-    <library name="mime-types (v2.6.2, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/data" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/support" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/data" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.6.2/support" />
-      </SOURCES>
-    </library>
     <library name="mime-types (v2.99, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.99/lib" />
@@ -669,15 +622,6 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-2.99/support" />
       </SOURCES>
     </library>
-    <library name="mini_portile (v0.7.0.rc4, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mini_portile-0.7.0.rc4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mini_portile-0.7.0.rc4/lib" />
-      </SOURCES>
-    </library>
     <library name="mini_portile2 (v2.0.0.rc2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mini_portile2-2.0.0.rc2/lib" />
@@ -685,15 +629,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mini_portile2-2.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="minitest (v5.4.3, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.3, ruby-2.2.3-p173) [gem]">
@@ -712,27 +647,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/multi_json-1.11.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="nokogiri (v1.6.7.rc3, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.rc3" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/tasks" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/patches" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/suppressions" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.rc3" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/tasks" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/patches" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.rc3-x64-mingw32/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.7.rc4, ruby-2.2.3-p173) [gem]">
@@ -782,18 +696,10 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x64-mingw32/sample" />
       </SOURCES>
     </library>
-    <library name="power_assert (v0.2.2, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
-      </SOURCES>
-    </library>
     <library name="psych (v2.0.8, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -820,6 +726,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -828,6 +735,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -854,6 +762,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -962,6 +871,7 @@
     <library name="rake (v10.4.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -988,6 +898,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -996,6 +907,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -1022,6 +934,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -1031,6 +944,7 @@
     <library name="rdoc (v4.2.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -1057,6 +971,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -1065,6 +980,7 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tk" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
@@ -1091,6 +1007,7 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/tkextlib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
@@ -1117,6 +1034,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/bin" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/ext" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-update (v2.5.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/util" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/hide_lib_for_update" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/util" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rubygems-update-2.5.0/hide_lib_for_update" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.19, ruby-2.2.3-p173) [gem]">
@@ -1205,34 +1137,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/temple-0.7.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v3.0.8, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
-      </SOURCES>
-    </library>
-    <library name="thin (v1.6.4, ruby-2.2.3-p173) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/bin" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/ext" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/lib" />
-        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thin-1.6.4/example" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, ruby-2.2.3-p173) [gem]">
