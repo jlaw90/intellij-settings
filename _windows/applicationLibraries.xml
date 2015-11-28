@@ -239,6 +239,24 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="countries (v1.2.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/countries-1.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/countries-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="currencies (v0.4.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/currencies-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/currencies-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta6, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta6/ext" />
@@ -368,6 +386,17 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n_data (v0.7.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/cache" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/cache" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, ruby-2.2.3-p173) [gem]">
@@ -638,6 +667,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="money (v6.6.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/money-6.6.1/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/money-6.6.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/money-6.6.1/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/money-6.6.1/config" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.2, ruby-2.2.3-p173) [gem]">
