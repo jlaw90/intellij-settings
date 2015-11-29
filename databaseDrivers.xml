@@ -24,6 +24,12 @@
     </driver>
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/sqlite-jdbc-3.7.6.3-20110609.081603-3.jar</url>
+      </library>
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="false" />
