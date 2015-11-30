@@ -10,6 +10,17 @@
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="2a99e0e1-e359-4865-b669-5f622f25561e" name="Rails sqrt4.com: development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <artifact name="Xerial SQLiteJDBC" />
+      <url-template name="default" template="jdbc:sqlite:{file::database.sqlite}?" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.IntelliJIdea12/config/jdbc-drivers/sqlite-jdbc-3.7.2.jar</url>
+      </library>
+    </driver>
     <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
       <option name="auto-sync" value="false" />
     </driver>
