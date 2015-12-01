@@ -65,6 +65,7 @@
   </component>
   <component name="PsiViewerSettings">
     <option name="dialect" value="Language: JAVA" />
+    <option name="blockRefDividerLocation" value="457" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
