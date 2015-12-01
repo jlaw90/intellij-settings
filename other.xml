@@ -65,7 +65,7 @@
   </component>
   <component name="PsiViewerSettings">
     <option name="type" value="ProcessMaker Trigger file" />
-    <option name="text" value="@@TEST = 'hello';&#10;&#10;" />
+    <option name="text" value="print &quot;Some PHP here&quot;;&#10;&#10;@@TEST = 'hello';&#10;&#10;" />
     <option name="blockRefDividerLocation" value="457" />
   </component>
   <component name="RefactoringSettings">
