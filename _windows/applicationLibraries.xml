@@ -494,6 +494,14 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jbuilder-2.3.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="JetBrains JFlex">
+      <CLASSES>
+        <root url="file://$USER_HOME$/IdeaProjects/ProcessMaker Trigger Sync/idea-flex.skeleton" />
+        <root url="jar://$USER_HOME$/IdeaProjects/ProcessMaker Trigger Sync/JFlex.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jquery-rails (v4.0.5, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/jquery-rails-4.0.5/lib" />
