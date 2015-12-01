@@ -64,9 +64,9 @@
     </filter>
   </component>
   <component name="PsiViewerSettings">
-    <option name="type" value="ProcessMaker Trigger file" />
-    <option name="text" value="print &quot;Some PHP here&quot;;&#10;&#10;@@TEST = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
-    <option name="blockRefDividerLocation" value="457" />
+    <option name="type" value="PHP file" />
+    <option name="text" value="&lt;?php&#10;print &quot;Some PHP here&quot;;&#10;&#10;@@TEST = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
+    <option name="blockRefDividerLocation" value="248" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
