@@ -121,7 +121,7 @@
   </component>
   <component name="PsiViewerSettings">
     <option name="type" value="PHP file" />
-    <option name="text" value="&lt;?php&#10;print &quot;Some PHP here&quot;;&#10;&#10;@@TEST = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
+    <option name="text" value="&lt;?php&#10;print &quot;Some PHP here&quot;;&#10;&#10;@%var = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
     <option name="blockRefDividerLocation" value="248" />
   </component>
   <component name="RecentTaskRepositories">
