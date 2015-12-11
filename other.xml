@@ -124,6 +124,22 @@
     <option name="text" value="&lt;?php&#10;print &quot;Some PHP here&quot;;&#10;&#10;@@TEST = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
     <option name="blockRefDividerLocation" value="248" />
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://dev.sqrt4.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df92df93df99dfcbdf9fdfcbdf92dfc8dfc8df9d</password>
+      <option name="jiraVersion" value="7.0.0" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>james</username>
+    </JIRA>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
