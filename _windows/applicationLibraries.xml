@@ -27,6 +27,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionmailer-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionmailer-5.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.1.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib" />
@@ -52,6 +61,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionpack-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionpack-5.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.1.4, ruby-2.2.3-p173) [gem]">
@@ -81,6 +99,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionview-4.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionview-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/actionview-5.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.5, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activejob-4.2.5/lib" />
@@ -88,6 +115,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activejob-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activejob-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activejob-5.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.1.4, ruby-2.2.3-p173) [gem]">
@@ -117,6 +153,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activemodel-4.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activemodel-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activemodel-5.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.1.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activerecord-4.1.4/lib" />
@@ -144,6 +189,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activerecord-4.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activerecord-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activerecord-5.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.1.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activesupport-4.1.4/lib" />
@@ -169,6 +223,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activesupport-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activesupport-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/activesupport-5.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="acts-as-taggable-on (v3.4.2, ruby-2.2.3-p173) [gem]">
@@ -200,6 +263,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v7.0.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-7.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/arel-7.0.0/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.10, ruby-2.2.3-p173) [gem]">
@@ -437,6 +509,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="countries (v1.2.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/countries-1.2.2/lib" />
@@ -550,6 +631,23 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="eventmachine (v1.0.9.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/eventmachine-1.0.9.1/rakelib" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.2.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/execjs-2.2.1/lib" />
@@ -575,6 +673,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faye-websocket (v0.10.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/faye-websocket-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/faye-websocket-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="font-awesome-rails (v4.1.0.0, ruby-2.2.3-p173) [gem]">
@@ -1096,6 +1203,15 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mail-2.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v1.25.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/mime-types-1.25.1/lib" />
@@ -1194,6 +1310,25 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.7.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/tasks" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/patches" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/tasks" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/patches" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.1-x64-mingw32/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.7.rc4, ruby-2.2.3-p173) [gem]">
@@ -1372,6 +1507,21 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.0.alpha, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/contrib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/contrib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-2.0.0.alpha/example" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-test-0.6.2/lib" />
@@ -1486,6 +1636,17 @@
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-4.2.5/bin" />
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-4.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.0.beta1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-5.0.0.beta1/exe" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-5.0.0.beta1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-5.0.0.beta1/exe" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/railties-5.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.3.2, ruby-2.2.3-p173) [gem]">
@@ -1671,6 +1832,19 @@
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
         <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.2.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/.travis" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/.travis" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/redis-3.2.2/benchmarking" />
       </SOURCES>
     </library>
     <library name="request_store (v1.2.1, ruby-2.2.3-p173) [gem]">
@@ -2171,6 +2345,26 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-driver (v0.6.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-extensions-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/websocket-extensions-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="wysiwyg-rails (v1.2.4, ruby-2.2.3-p173) [gem]">
