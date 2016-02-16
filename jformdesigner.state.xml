@@ -4,7 +4,7 @@
     <entry key="license.filechooser.lastdirpath" value="C:\Users\james\Seafile\My Library\Documents\licenses" />
     <entry key="license.filechooser.size" value="501, 326" />
     <entry key="updates.lastcheckedversion" value="5.2.2.2.228" />
-    <entry key="updates.lastchecked" value="1453446309862" />
+    <entry key="updates.lastchecked" value="1455615274662" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
