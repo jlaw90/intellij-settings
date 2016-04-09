@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="OTDMDEV-maillog" type="PLAIN_TEXT" />
@@ -12,6 +12,7 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="jbs" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="axlsx" type="Ruby" />
     </extensionMap>
