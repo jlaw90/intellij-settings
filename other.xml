@@ -55,6 +55,9 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe" />
+  </component>
   <component name="PsiViewerSettings">
     <option name="type" value="PHP file" />
     <option name="text" value="&lt;?php&#10;print &quot;Some PHP here&quot;;&#10;&#10;@%var = 'hello';&#10;&#10;$email = 'rofl@dor.com';&#10;" />
