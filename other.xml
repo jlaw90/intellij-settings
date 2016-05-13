@@ -56,7 +56,12 @@
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe" />
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="4.4.4" last-modified="1462492284000" />
+    </local-interpreter>
   </component>
   <component name="PsiViewerSettings">
     <option name="type" value="PHP file" />
