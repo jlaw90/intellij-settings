@@ -11,10 +11,14 @@
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="properties.expanded.bindings" value="true" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <entry key="properties.expanded.category.readonly" value="true" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="selection737433939" value="label1" />
         <entry key="selection-2069920387" value="asciiTable" />
         <entry key="selection-640773241" value="username" />
+        <entry key="selection1873427839" value="this" />
       </node>
     </node>
   </component>
