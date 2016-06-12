@@ -3,17 +3,22 @@
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <entry key="license.filechooser.lastdirpath" value="C:\Users\james\Seafile\My Library\Documents\licenses" />
     <entry key="license.filechooser.size" value="501, 326" />
-    <entry key="updates.lastcheckedversion" value="5.2.2.2.228" />
-    <entry key="updates.lastchecked" value="1450311180379" />
+    <entry key="updates.lastcheckedversion" value="5.2.3.0.281" />
+    <entry key="updates.lastchecked" value="1465496865985" />
+    <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="properties.expanded.bindings" value="true" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <entry key="properties.expanded.category.readonly" value="true" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="selection737433939" value="label1" />
         <entry key="selection-2069920387" value="asciiTable" />
         <entry key="selection-640773241" value="username" />
+        <entry key="selection1873427839" value="this" />
       </node>
     </node>
   </component>
