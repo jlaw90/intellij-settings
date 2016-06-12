@@ -9,10 +9,12 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="maillog" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="singleton" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="jbs" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="axlsx" type="Ruby" />
     </extensionMap>
   </component>
