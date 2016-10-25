@@ -4,7 +4,9 @@
     <entry key="license.filechooser.lastdirpath" value="C:\Users\james\Seafile\My Library\Documents\licenses" />
     <entry key="license.filechooser.size" value="501, 326" />
     <entry key="updates.lastcheckedversion" value="5.2.3.0.281" />
-    <entry key="updates.lastchecked" value="1468007035705" />
+    <entry key="updates.lastchecked" value="1477428691386" />
+    <entry key="updates.version.5.2.4.0.329" value="type=free;message=&lt;html&gt;An update for JFormDesigner IntelliJ IDEA plug-in is available: &lt;b&gt;5.2.4&lt;/b&gt; (Build&amp;nbsp\;329). &lt;a href=&quot;http://www.formdev.com/jformdesigner/changelog/52/?piwik_campaign=check-for-updates#5_2_4&quot;&gt;Change&amp;nbsp\;Log&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;http://www.formdev.com/jformdesigner/download/?piwik_campaign=check-for-updates&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
+    <entry key="updates.version.6.0.0.0.51" value="type=upgrade;message=&lt;html&gt;A (none-free) new version of JFormDesigner  is available: &lt;b&gt;6.0 Release Candidate 3&lt;/b&gt; (Build&amp;nbsp\;51). &lt;a href=&quot;http://www.formdev.com/jformdesigner/whatsnew/60/?piwik_campaign=check-for-updates&quot;&gt;What's&amp;nbsp\;New&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;http://www.formdev.com/jformdesigner/buy/upgrade/?purchase_id=${purchase_id}&amp;email=${email}&amp;product_id=${product_id}&amp;piwik_campaign=check-for-updates&quot;&gt;Order&amp;nbsp\;Upgrade&amp;nbsp\;License&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;http://www.formdev.com/jformdesigner/preview/?piwik_campaign=check-for-updates#download&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
