@@ -807,6 +807,17 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-5.1.11/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.7.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.7.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.7.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.7.0/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-6.7.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="axlsx (v2.0.1, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/axlsx-2.0.1/lib" />
@@ -993,6 +1004,21 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bitters-1.5.0/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bitters-1.5.0/core" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bitters-1.5.0/contrib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.0.0.alpha6, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/tasks" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/assets" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/tasks" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/assets" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-4.0.0.alpha6/templates" />
       </SOURCES>
     </library>
     <library name="bootstrap-sass (v3.1.1.1, ruby-2.2.3-p173) [gem]">
