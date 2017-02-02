@@ -2864,6 +2864,17 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/kaminari-0.16.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="lodash-rails (v4.17.2, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lodash-rails-4.17.2/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lodash-rails-4.17.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lodash-rails-4.17.2/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/lodash-rails-4.17.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.1, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/loofah-2.0.1/lib" />
