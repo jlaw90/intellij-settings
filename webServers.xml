@@ -2,10 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9893bca9-9d9c-4f9b-9825-8ba321f4e2da" name="pmuk" url="">
-        <fileTransfer host="processmaker.co.uk" port="22" privateKey="C:\Users\James\Seafile\My Library\Documents\MT\openssh" accessType="SFTP" username="root" keyPair="true">
+        <fileTransfer host="processmaker.co.uk" port="22" privateKey="C:\Users\James\Seafile\My Library\Documents\MT\openssh" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
