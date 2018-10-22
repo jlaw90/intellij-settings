@@ -836,6 +836,18 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/axlsx_rails-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="babel" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone_babel.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone_babel.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="babel-source (v5.8.35, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/babel-source-5.8.35/lib" />
