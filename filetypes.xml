@@ -1,23 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="exclude" type="Git exclude file" />
       <removed_mapping pattern="exclude" type="GitExclude file" />
       <mapping pattern="maillog" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="SEMTA-maillog" type="PLAIN_TEXT" />
       <mapping pattern="OTDMDEV-maillog" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="singleton" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="jbs" type="PLAIN_TEXT" />
-      <mapping ext="singleton" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="axlsx" type="Ruby" />
+      <removed_mapping pattern="exclude" type="GitExclude file" />
     </extensionMap>
   </component>
 </application>
