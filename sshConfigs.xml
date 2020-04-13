@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="processmaker.co.uk" id="3ab41359-5614-445b-8429-11b3824d5633" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
