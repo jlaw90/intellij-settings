@@ -4,6 +4,8 @@
       <sshConfig host="processmaker.co.uk" id="3ab41359-5614-445b-8429-11b3824d5633" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
       <sshConfig host="processmaker.co.uk" id="9a39ee95-a9e1-47e1-a43d-1cdc54dfd74d" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
       <sshConfig host="processmaker.co.uk" id="c9cc53f1-7064-44f0-86f7-6bf2f70a7093" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
+      <sshConfig host="processmaker.co.uk" id="f3b87131-3580-463f-b38d-8828101e9a09" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
+      <sshConfig host="processmaker.co.uk" id="f34cbca4-4378-4e10-b2fa-6430bd8942c4" keyPath="C:\Users\James\Seafile\My Library\Documents\MT\openssh" port="22" customName="pmuk" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
